@@ -43,4 +43,4 @@ Where I study myself as much as the medium.
 
 ---
 
-Want to tweak the tone? Add personal touches? Rename any folders or swap the quote? We can workshop it together till it *feels* like your space.
+Here we can keep tweaking the tone, adding personal touches, renaming things as we rebuild them, and even swipe out one daydream for a dream come true. Workshop it till it *feels* like your space.
