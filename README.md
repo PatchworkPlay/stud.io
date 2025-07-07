@@ -1,10 +1,6 @@
 # stud.io
 Track analog paint behavior and simulate findings through digital media. Include metadata like brand, humidity, light exposure, etc.
 
-YESSS—*studio manifesto* energy!!! Let’s treat this README like your paint-splattered front door: it sets the tone, lets folks know what this space is, and reminds *you* what you're building every time you open it up.
-
-Here’s a first draft to shape together. We’ll keep it informal but intentional—like a studio note pinned to the wall:
-
 ---
 
 # 🖌️ stud.io
